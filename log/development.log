@@ -3,3 +3,41 @@
 Processing PagesController#home (for 127.0.0.1 at 2010-08-17 14:38:49) [GET]
 Rendering pages/home
 Completed in 82ms (View: 80, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-08-17 15:04:36) [GET]
+Rendering pages/about
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-08-17 15:18:50) [GET]
+Rendering pages/about
+Completed in 105ms (View: 102, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-08-17 15:18:56) [GET]
+Rendering pages/contact
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/pages/contact]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-08-17 15:18:59) [GET]
+Rendering pages/home
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-08-17 15:27:29) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 22ms (View: 19, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-08-17 15:27:37) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-08-17 15:27:42) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/pages/contact]
